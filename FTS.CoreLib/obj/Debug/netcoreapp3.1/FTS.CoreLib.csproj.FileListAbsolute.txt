@@ -1,0 +1,4 @@
+C:\work\FTS\FTS.CoreLib\obj\Debug\netcoreapp3.1\FTS.CoreLib.csprojAssemblyReference.cache
+C:\work\FTS\FTS.CoreLib\obj\Debug\netcoreapp3.1\FTS.CoreLib.AssemblyInfoInputs.cache
+C:\work\FTS\FTS.CoreLib\obj\Debug\netcoreapp3.1\FTS.CoreLib.AssemblyInfo.cs
+C:\work\FTS\FTS.CoreLib\obj\Debug\netcoreapp3.1\FTS.CoreLib.csproj.CoreCompileInputs.cache
